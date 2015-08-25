@@ -4,7 +4,7 @@
  *  Created on: Jul 9, 2015
  *      Author: TT112S-04
  */
-# define MSG_BUF 1000
+# define MSG_BUF 100
 #include<stdio.h>
 #include<fcntl.h>
 #include<string.h>
